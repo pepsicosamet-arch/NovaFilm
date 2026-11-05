@@ -1828,13 +1828,13 @@
 	Hard Limiter	Sert Sınırlayıcı
 	Hard Mix	Sert Karışım
 	Hardware decoding	Donanım kod çözme
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and NOVA Film's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Donanım kod çözme: Otomatik seçeneği, desteklediği akışlar için sistemin video kod çözücüsünü (macOS'te VideoToolbox, Windows'ta Media Foundation, Linux'ta H.264 ve HEVC için VA-API veya NVDEC), diğer her şey için veya donanım başarısız olursa NOVA Film'ın kendi kod çözücüsünü kullanır. Halihazırda açık olan medya, yeniden açılana kadar kod çözücüsünü korur.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and NOVA Film's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Donanım kod çözme: Otomatik seçeneği, desteklediği akışlar için sistemin video kod çözücüsünü (macOS'te VideoToolbox, Windows'ta Media Foundation, Linux'ta H.264 ve HEVC için VA-API veya NVDEC), diğer her şey için veya donanım başarısız olursa NOVA Film'in kendi kod çözücüsünü kullanır. Halihazırda açık olan medya, yeniden açılana kadar kod çözücüsünü korur.
 	Head Size	Baş Boyutu
 	Heart	Kalp
 	Height	Yükseklik
 	Hexagon	Altıgen
 	Hide Back Face	Arka Yüzü Gizle
-	Hide NOVA Film	NOVA Film'ı Gizle
+	Hide NOVA Film	NOVA Film'i Gizle
 	Hide Others	Diğerlerini Gizle
 	High	Yüksek
 	High Cutoff	Yüksek Kesme
@@ -2105,7 +2105,7 @@
 	Night	Gece
 	No Motion	Hareket Yok
 	No Scroll	Kaydırma Yok
-	No plugins are installed. Changes will take effect the next time you start NOVA Film.	Hiçbir eklenti yüklü değil. Değişiklikler NOVA Film'ı bir sonraki başlatışınızda geçerli olacaktır.
+	No plugins are installed. Changes will take effect the next time you start NOVA Film.	Hiçbir eklenti yüklü değil. Değişiklikler NOVA Film'i bir sonraki başlatışınızda geçerli olacaktır.
 	Noise	Gürültü
 	Noise & Grain	Gürültü ve Gren
 	Noise (Legacy)	Gürültü (Eski)
@@ -2537,7 +2537,7 @@
 	Template Properties	Şablon Özellikleri
 	Text Animator	Metin Canlandırıcı
 	Text Color	Metin Rengi
-	The media cache holds render previews of unsaved projects and other files NOVA Film can recreate. Deleting them is always safe; NOVA Film rebuilds them as needed.	Medya önbelleği, kaydedilmemiş projelerin işleme önizlemelerini ve NOVA Film'ın yeniden oluşturabileceği diğer dosyaları tutar. Bunları silmek her zaman güvenlidir; NOVA Film gerektiğinde bunları yeniden oluşturur.
+	The media cache holds render previews of unsaved projects and other files NOVA Film can recreate. Deleting them is always safe; NOVA Film rebuilds them as needed.	Medya önbelleği, kaydedilmemiş projelerin işleme önizlemelerini ve NOVA Film'in yeniden oluşturabileceği diğer dosyaları tutar. Bunları silmek her zaman güvenlidir; NOVA Film gerektiğinde bunları yeniden oluşturur.
 	Thickness	Kalınlık
 	Tile Gradient	Döşeme Gradyanı
 	Tilt	Eğim
@@ -3237,7 +3237,7 @@
 	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime, alfa kanallı ProRes 4444 (4:4:4), 24 bit 48 kHz PCM
 	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 XQ (4:4:4), 24 bit 48 kHz PCM
 	QuickTime, ProRes 422, 24-bit 48 kHz PCM	QuickTime, ProRes 422, 24 bit 48 kHz PCM
-	Quit NOVA Film	NOVA Film'tan Çık
+	Quit NOVA Film	NOVA Film'den Çık
 	Rate Stretch Tool	Oran Uzatma Aracı
 	Razor Tool	Jilet Aracı
 	Rectangle Tool	Dikdörtgen Aracı
@@ -3624,5 +3624,5 @@
 	No matching text.	Eşleşen metin yok.
 	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and NOVA Film has no software H.265 encoder yet. Choose H.264 or ProRes instead.	H.265 (HEVC) bir donanım kodlayıcısı gerektirir (NVIDIA GPU'larda NVENC, macOS'ta VideoToolbox); bu makinede hiçbiri bulunamadı ve NOVA Film henüz yazılımsal H.265 kodlayıcıya sahip değil. Bunun yerine H.264 veya ProRes seçin.
 	AV1 needs a hardware encoder; none was found on this machine, and NOVA Film has no software AV1 encoder yet.	AV1 bir donanım kodlayıcısı gerektirir; bu makinede hiçbiri bulunamadı ve NOVA Film henüz yazılımsal AV1 kodlayıcıya sahip değil.
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API for H.264 and HEVC on Linux) for the streams it supports, and NOVA Film's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Donanım kod çözme: Otomatik, desteklediği akışlar için sistemin video kod çözücüsünü (macOS'ta VideoToolbox, Windows'ta Media Foundation, Linux'ta H.264 ve HEVC için VA-API), diğer her şey veya donanım başarısız olduğunda ise NOVA Film'ın kendi kod çözücüsünü kullanır. Zaten açık olan medya yeniden açılana kadar kod çözücüsünü korur.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API for H.264 and HEVC on Linux) for the streams it supports, and NOVA Film's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Donanım kod çözme: Otomatik, desteklediği akışlar için sistemin video kod çözücüsünü (macOS'ta VideoToolbox, Windows'ta Media Foundation, Linux'ta H.264 ve HEVC için VA-API), diğer her şey veya donanım başarısız olduğunda ise NOVA Film'in kendi kod çözücüsünü kullanır. Zaten açık olan medya yeniden açılana kadar kod çözücüsünü korur.
 	The control server is disabled: FILMCRAFT_CONTROL_TOKEN must contain 64 random hex characters (see docs/control-protocol.md)	Denetim sunucusu devre dışı: FILMCRAFT_CONTROL_TOKEN 64 rastgele onaltılık karakter içermelidir (bkz. docs/control-protocol.md)
